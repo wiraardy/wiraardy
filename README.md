@@ -2,11 +2,9 @@
   <a href="https://github.com/Shno-rim"><diimg src="https://cardivo.vercel.app/api?name=Shno-rim&description=Heyoo,%20i%27m%20Wira&image=https://telegra.ph/file/d61e8ce28dedda5741644.jpg&backgroundColor=%23ecf0f1&instagram=dryflow.rl&github=Shno-rim&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
-<h1  align='center'> Hello </h1>
-
 <p align='center'> Hi, i'm Wira</p>
 
-| THIS MY INFO
+> THIS MY INFO 
 
 
 -  I’m currently learning *JavaCript,CSS,HTML*.
@@ -16,7 +14,7 @@
 -  I'm currently working on [`Shino`](https://github.com/Shno-rim/Shino) 
 ___
 
-# INTRODUCTING MY SELF 
+> INTRODUCTING MY SELF 
 ```
 > Name: Wira
 > Status: Single
