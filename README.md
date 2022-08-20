@@ -6,7 +6,7 @@
 
 <p align='center'> Hi, i'm Wira</p>
 
-# THIS MY INFO
+| THIS MY INFO
 
 
 -  I’m currently learning *JavaCript,CSS,HTML*.
