@@ -28,6 +28,3 @@
   
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wiraardy&repo=wiraardy&theme=maroongold)](https://github.com/wiraardy/wiraardy) 
-  
-[![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/channel/UC2leFpYrz4tPf2p3bTDWcKA)
-___
