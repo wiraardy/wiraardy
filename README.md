@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Shno-rim"><diimg src="https://cardivo.vercel.app/api?name=Shno-rim&description=Heyoo,%20i%27m%20Wira&image=https://telegra.ph/file/d61e8ce28dedda5741644.jpg&backgroundColor=%23ecf0f1&instagram=dryflow.rl&github=Shno-rim&pattern=leaf&colorPattern=%23eaeaea" /><a>
+  <a href="https://github.com/wiraardy"><diimg src="https://cardivo.vercel.app/api?name=wiraardy&description=Heyoo,%20i%27m%20Wira&image=https://telegra.ph/file/d61e8ce28dedda5741644.jpg&backgroundColor=%23ecf0f1&instagram=dryflow.rl&github=wiraardy&pattern=leaf&colorPattern=%23eaeaea" /><a>
 </p>
 
 <p align='center'> Hi, i'm Wira</p>
@@ -11,7 +11,7 @@
 
 -  I'm currently focusing on *JavaScript*.
 
--  I'm currently working on [`Shino`](https://github.com/Shno-rim/Shino) 
+-  I'm currently working on [`Shino`](https://github.com/wiraardy/Shino) 
 ___
 
 > INTRODUCTING MY SELF 
@@ -38,21 +38,21 @@ ___
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=Shno-rim alt=Shno-rim/> </p>
+<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=wiraardy alt=wiraardy/> </p>
 
 <p align="center">
-  <a href="https://github.com/Shno-rim"><img src="https://github-readme-stats.vercel.app/api?username=Shno-rim&&theme=maroongold&show_icons=true" /></a>
+  <a href="https://github.com/wiraardy"><img src="https://github-readme-stats.vercel.app/api?username=wiraardy&&theme=maroongold&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shno-rim"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shno-rim&theme=highcontrast&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="https://github.com/wiraardy"><img src="https://github-readme-streak-stats.herokuapp.com?user=wiraardy&theme=highcontrast&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 
-<p align="center"><a href="https://github.com/Shno-rim"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shno-rim&theme=maroongold&layout=compact"></a></p> 
+<p align="center"><a href="https://github.com/wiraardy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraardy&theme=maroongold&layout=compact"></a></p> 
   
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Shno-rim&repo=Shino&theme=maroongold)](https://github.com/Shno-rim/Shino) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wiraardy&repo=Shino&theme=maroongold)](https://github.com/wiraardy/Shino) 
   
 [![ANIME](https://coverfiles.alphacoders.com/916/91695.png)](https://youtube.com/channel/UC2leFpYrz4tPf2p3bTDWcKA)
 ___
