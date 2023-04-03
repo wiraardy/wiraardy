@@ -14,12 +14,12 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=wiraardy&&theme=maroongold&show_icons=true" /></a>
+  <a href="#README"><img src="https://github-readme-stats.vercel.app/api?username=wiraardy&&theme=maroongold&show_icons=true" /></a>
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=wiraardy&theme=highcontrast&hide_border=false&properties=background&border=%239611C5FF" /><a>
+  <a href="#README"><img src="https://github-readme-streak-stats.herokuapp.com?user=wiraardy&theme=highcontrast&hide_border=false&properties=background&border=%239611C5FF" /><a>
 </p>
   
 
-<p align="center"><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraardy&theme=maroongold&layout=compact"></a></p>
+<p align="center"><a href="#README"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraardy&theme=maroongold&layout=compact"></a></p>
