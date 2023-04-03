@@ -13,8 +13,6 @@
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
-<p align=center> <img src=https://visitor-badge.glitch.me/badge?page_id=wiraardy alt=wiraardy/> </p>
-
 <p align="center">
   <a href="https://github.com/wiraardy"><img src="https://github-readme-stats.vercel.app/api?username=wiraardy&&theme=maroongold&show_icons=true" /></a>
 </p>
@@ -24,7 +22,4 @@
 </p>
   
 
-<p align="center"><a href="https://github.com/wiraardy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraardy&theme=maroongold&layout=compact"></a></p> 
-  
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wiraardy&repo=wiraardy&theme=maroongold)](https://github.com/wiraardy/wiraardy) 
+<p align="center"><a href="https://github.com/wiraardy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wiraardy&theme=maroongold&layout=compact"></a></p>
