@@ -1,29 +1,4 @@
 <p align="center">
-  <a href="https://github.com/wiraardy"><diimg src="https://cardivo.vercel.app/api?name=wiraardy&description=Heyoo,%20i%27m%20Wira&image=https://telegra.ph/file/d61e8ce28dedda5741644.jpg&backgroundColor=%23ecf0f1&instagram=dryflow.rl&github=wiraardy&pattern=leaf&colorPattern=%23eaeaea" /><a>
-</p>
-
-<p align='center'> Hi, i'm Wira</p>
-
-> THIS MY INFO 
-
-
--  I’m currently learning *JavaCript,CSS,HTML*.
-
--  I'm currently focusing on *JavaScript*.
-
--  I'm currently working on [`wiraardy`](https://github.com/wiraardy/wiraardy) 
-___
-
-> INTRODUCTING MY SELF 
-```
-> Name: Wira
-> Status: Single
-> Address: isekai
-> Date Of Birth: 15 November
-```
-___
-
-<p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
