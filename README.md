@@ -1,5 +1,5 @@
 # 💫 About Me:
-I live and live in Indonesia, I have a dream to become a famous programmer 
+javascript is my best friend when I'm alone 
 
 
 # 💻 Tech Stack:
