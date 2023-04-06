@@ -2,7 +2,7 @@
 javascript is my best friend when I'm alone 
 
 <div style="width:80%">
-<img src="https://visitcount.itsvg.in/api?id=wiraardy&icon=0&color=0" width="300" height=">
+<img src="https://visitcount.itsvg.in/api?id=wiraardy&icon=0&color=0" width="300" height="">
 </div>
 
 # 💻 Tech Stack:
